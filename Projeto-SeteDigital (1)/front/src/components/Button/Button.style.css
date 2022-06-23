@@ -1,0 +1,19 @@
+.button {
+  padding: 25px;
+  border: none;
+  font-size: 30px;
+  border-radius: 15px;
+  width: 100%;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.primary {
+  background-color: green;
+  color: white;
+}
+
+.secondary {
+  background-color: yellow;
+  color: black;
+}
